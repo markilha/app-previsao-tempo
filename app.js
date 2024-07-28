@@ -40,7 +40,7 @@ const searchWeather = () => {
 }
 // search Default
 const initApp = () => {
-    valueSearch.value = 'Brasília';
+    valueSearch.value = 'Capão Bonito';
     searchWeather();
 }
 initApp();
